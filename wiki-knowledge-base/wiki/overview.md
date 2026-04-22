@@ -34,10 +34,12 @@ Prompt Engineering (2022-2024)
 ```
 
 关键概念：
+- [[concepts/context-engineering]] — 为 AI 模型动态构建完整上下文的工程方法
 - [[concepts/harness-engineering]] — 围绕 Agent 搭建约束、反馈、质量检查的完整运行环境
 - [[concepts/planner-generator-evaluator]] — 三角色分离架构，GAN 式解法
 - [[concepts/agents-md]] — 知识层核心文件，100 行目录而非百科
 - [[concepts/sprint-contract]] — 验收协议，把完成标准变成可验证文件
+- [[concepts/multi-agent-architecture]] — 多 Agent 协同工作架构
 - [[concepts/subagent]] — 上下文隔离的核心机制
 - [[concepts/sdd]] — 规范驱动开发，Harness 的"导航仪"
 

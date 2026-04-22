@@ -1,6 +1,6 @@
 # Index — 星辰 AI 应用手册 Wiki
 
-最后更新：2026-04-20 | 共 18 篇来源，5 个实体，10 个概念
+最后更新：2026-04-20 | 共 18 篇来源，5 个实体，11 个概念
 
 ---
 
@@ -29,11 +29,11 @@
 ### Claude Code 专题（2026年3月）
 - [[sources/2026-03-claude-code-source-analysis]] — Claude Code 源码深度分析
 - [[sources/2026-03-claude-code-hidden-commands]] — Claude Code 隐藏命令
+- [[sources/2026-03-subagent-custom]] — Subagent 自定义入门
 
 ### Harness Engineering 系列续（2026年4月）
 - [[sources/2026-04-harness-from-add-to-delete]] — Anthropic Harness：从补到删
 - [[sources/2026-04-harness-and-sdd]] — Harness 与 SDD
-- [[sources/2026-03-subagent-custom]] — Subagent 自定义入门
 - [[sources/2026-04-coding-agent-harness-practice]] — 编码 Agent Harness 工程实践
 
 ---

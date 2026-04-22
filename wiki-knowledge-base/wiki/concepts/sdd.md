@@ -25,7 +25,7 @@ SDD 优化的是**"正确交付总成本"**，而非"第一版代码速度"：
 Linter 只能检查格式层面约束；跨服务错误码含义、字段业务语义等**必须**通过 Spec 显式记录，否则 Agent 只能"合理猜测"。
 
 ### 反馈回路判据
-[[../concepts/harness-engineering]] 飞轮（犯错→诊断→修复→不再犯）的第一步"发现错误"需要正确性判据，Spec 的 WHEN/THEN Scenario 就是对照标准。
+[[harness-engineering]] 飞轮（犯错→诊断→修复→不再犯）的第一步"发现错误"需要正确性判据，Spec 的 WHEN/THEN Scenario 就是对照标准。
 
 ## 放大器效应
 
